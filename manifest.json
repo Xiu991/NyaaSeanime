@@ -1,0 +1,15 @@
+{
+  "id": "nyaa-vostfr-provider",
+  "name": "Nyaa.si (VOSTFR/Multi)",
+  "version": "1.0.0",
+  "manifestURI": "https://raw.githubusercontent.com/Xiu991/NyaaSeanime/main/manifest.json",
+  "language": "typescript",
+  "type": "anime-torrent-provider",
+  "description": "Provider Nyaa.si pour animes VOSTFR, VF et multi-langues. Le plus grand catalogue d'animes au monde.",
+  "author": "Xiu991",
+  "icon": "https://raw.githubusercontent.com/Xiu991/NyaaSeanime/main/icon.png",
+  "website": "https://nyaa.si",
+  "lang": "multi",
+  "payloadURI": "https://raw.githubusercontent.com/Xiu991/NyaaSeanime/main/NyaaProvider.ts",
+  "isDevelopement": false
+}
